@@ -1,2 +1,1 @@
-# EDA _Guide
- EDA
+This serves as a basic explanatory data analysis guide on how to start your journey as a data scientist 
